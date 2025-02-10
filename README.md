@@ -6,9 +6,10 @@ Welcome to the GitHub repository for the **Algorithm** course, **CSE221**, at **
 This course is taught in **Language Independent Platform** by our esteemed instructors:
 - Theory: Mr. Muhammad Ehsanul Kader **(EHD)**
 - Laboratory: Mr. _ **(_)** and Mr. _ **(_)**
-## In this Github Repository, it is done in ***PYTHON***
 
-If you are interested in doing it in ***JAVA***, 
+In this Github Repository, it is done in ***PYTHON***
+
+## If you are interested in doing it in ***JAVA***, 
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/mazidzomader/CSE221-JAVA)
 ## ⚠️ Academic Integrity Policy
